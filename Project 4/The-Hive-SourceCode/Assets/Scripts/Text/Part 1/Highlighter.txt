@@ -1,0 +1,5 @@
+A highlighter!
+Many explorers uses this to mark their ways in places like caves.
+Maybe it will be useful later.
+Press E to pick up items (Food, Batteries, highlighter, etc.)
+Press Q or left click to mark a door when touch a door.

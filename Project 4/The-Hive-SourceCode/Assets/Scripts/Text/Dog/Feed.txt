@@ -1,0 +1,2 @@
+A dog appears after the monster died. He seems so hungry.
+(Press Q or left click to feed the dog after the dialog is closed.)
