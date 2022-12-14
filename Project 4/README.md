@@ -1,5 +1,8 @@
 Note: In order to have all the assets, please make sure to unzip the MoreAssets.zip file first(in the Assets folder)
 
+<h3>Game desciption</h3>
+The Hive is a traditional r
+
 <h3>Unity Version: 3.21f1</h3>
 
 <h3>Controls</h3>
