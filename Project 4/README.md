@@ -1,1 +1,21 @@
 Note: In order to have all the assets, please make sure to unzip the MoreAssets.zip file first(in the Assets folder)
+
+<h3>Unity Version: 3.21f1</h3>
+
+<h3>Controls</h3>
+Movement - W, A, S, D<br/>
+FlashLight - cursor<br/>
+BackPack - B<br/>
+Pick up - E<br/>
+Use item in backpack - Q<br/>
+Check hint - R<br/>
+Environment interaction - left mouse, Q<br/>
+Turn on/off flashlight - right mouse<br/>
+Game pause - Esc
+
+<h3>Game demo</h3>
+Although we can have a video for the whole game, our team decided to separate it into four short videos, which is more clear.<br/>
+Part1: https://drive.google.com/file/d/1ChrTkABtUvt-r6CssowPb3Fi6Tja9JnY/view?usp=sharing<br/>
+Part2: https://drive.google.com/file/d/1JWaGqthrN13d5utDwK5hjnwTvIEZLw9s/view?usp=sharing<br/>
+Part3_1: https://drive.google.com/file/d/12c3nSOakGw8sL5S_KBee7pBU8wbQNsS_/view?usp=sharing<br/>
+Part3_2 and 4: https://drive.google.com/file/d/1et0vX_zJG0a9unJ1A1GIQ2MREXIjl8RZ/view?usp=sharing<br/>
