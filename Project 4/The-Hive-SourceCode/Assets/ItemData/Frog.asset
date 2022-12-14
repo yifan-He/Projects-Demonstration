@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2343f843ec967f8438d6dada30a21cb2, type: 3}
+  m_Name: Frog
+  m_EditorClassIdentifier: 
+  itemName: Frog
+  itemDes: They are very slippery to the touch.
+  itemSprite: {fileID: 5538744878310211288, guid: 1cfad3219939e254c922dbae2d640851, type: 3}
