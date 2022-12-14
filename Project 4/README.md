@@ -1,6 +1,6 @@
 Note: In order to have all the assets, please make sure to unzip the MoreAssets.zip file first(in the Assets folder)
 
-Source code:The-Hive source folder<br/>
+Source code:The-Hive-SourceCode folder<br/>
 
 <h3>Game desciption</h3>
 The Hive is a traditional RPG game, which was inspired by the Honeybee hive.In order to escape from the Labyrinth，we need to solve puzzles and to dodge the monsters.<br/>
