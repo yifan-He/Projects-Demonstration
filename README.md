@@ -13,3 +13,4 @@ A simulation of TCP and UDP newtwork protocol between a user and a server.
 Project 4: A small unity game - The Hive
 The Hive is an 2D RPG game involving puzzle solving, maze exploreation elements.
 
+Please note that all projects above are team projects
