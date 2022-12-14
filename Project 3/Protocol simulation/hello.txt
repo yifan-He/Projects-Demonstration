@@ -1,0 +1,12 @@
+{
+  "args": {
+    "assignment": "1", 
+    "course": "networking"
+  }, 
+  "headers": {
+    "Host": "httpbin.org", 
+    "X-Amzn-Trace-Id": "Root=1-620ebdbe-0cb0c52709f0dbc0622f8277"
+  }, 
+  "origin": "184.160.103.23", 
+  "url": "http://httpbin.org/get?course=networking&assignment=1"
+}
