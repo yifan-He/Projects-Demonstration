@@ -1,0 +1,16 @@
+{
+    "name":"invalid map (num of territory not matching)",	
+    "continentCount":1,
+	"continents":[{
+        "id":1,
+        "name":"continent1",
+        "territoryCount" : 2,
+        "territorys":[{
+            "id":1,
+            "name":"territory1",
+            "continentId":1         ,
+            "continentName":"continent1"        
+        }],
+        "reachableContinents":[]
+    }]
+}

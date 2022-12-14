@@ -1,0 +1,11 @@
+﻿  GameInitializer.cpp
+D:\concordia\HYF\Comp course material\comp345\A3_Team24\source\GameInitializer.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\concordia\HYF\Comp course material\comp345\A3_Team24\source\GameInitializer.cpp(380,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\concordia\HYF\Comp course material\comp345\A3_Team24\source\GameInitializer.cpp(517,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\concordia\HYF\Comp course material\comp345\A3_Team24\source\GameInitializer.cpp(614,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  GameInitializerDriver.cpp
+  Score.cpp
+D:\concordia\HYF\Comp course material\comp345\A3_Team24\source\Score.cpp(15,46): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+D:\concordia\HYF\Comp course material\comp345\A3_Team24\source\Score.cpp(263): warning C4715: 'Score::getWinner': not all control paths return a value
+  A3V4.vcxproj -> D:\concordia\HYF\Comp course material\comp345\A3_Team24\x64\Debug\A3V4.exe
