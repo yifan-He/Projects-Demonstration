@@ -14,7 +14,7 @@ Turn on/off flashlight - right mouse<br/>
 Game pause - Esc
 
 <h3>Game demo</h3>
-Although we can have a video for the whole game, our team decided to separate it into four short videos, which is more clear.<br/>
+Here are 4 sections of the game.<br/>
 Part1: https://drive.google.com/file/d/1ChrTkABtUvt-r6CssowPb3Fi6Tja9JnY/view?usp=sharing<br/>
 Part2: https://drive.google.com/file/d/1JWaGqthrN13d5utDwK5hjnwTvIEZLw9s/view?usp=sharing<br/>
 Part3_1: https://drive.google.com/file/d/12c3nSOakGw8sL5S_KBee7pBU8wbQNsS_/view?usp=sharing<br/>
