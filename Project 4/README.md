@@ -29,4 +29,14 @@ Part3_1: https://drive.google.com/file/d/12c3nSOakGw8sL5S_KBee7pBU8wbQNsS_/view?
 Part3_2 and 4: https://drive.google.com/file/d/1et0vX_zJG0a9unJ1A1GIQ2MREXIjl8RZ/view?usp=sharing<br/>
 
 <h3>snap shot time:</h3>
-![image](https://github.com/yifan-He/Projects-Demonstration/blob/main/Project%204/img/Start.png)
+Starting Scene<br/>
+<img src="https://github.com/yifan-He/Projects-Demonstration/blob/main/Project%204/img/Start.png"/><br/>
+
+End Scene1<br/>
+<img src="https://github.com/yifan-He/Projects-Demonstration/blob/main/Project%204/img/End1.png"/><br/>
+
+End Scene2<br/>
+<img src="https://github.com/yifan-He/Projects-Demonstration/blob/main/Project%204/img/End2.png"/><br/>
+
+Backpack(Contain the Name, number , function and description of the item)<br/>
+<img src="https://github.com/yifan-He/Projects-Demonstration/blob/main/Project%204/img/Backpack.png"/><br/>
