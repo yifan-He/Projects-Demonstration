@@ -1,6 +1,6 @@
 Source code: Protocol simulation folder
 
-<h3>Program discription</h3>
+<h3>Project discription</h3>
 This is a simple simulation between a user and a server by sending packets through the router.(use socket to send and receive the packets)<br/><br/> 
 It contains two types of message that users can send: get and post. Get is to get the information from the server. Post is to request for a change. Depending on the requests the server and client get, they will process and display the information correctly.
 
