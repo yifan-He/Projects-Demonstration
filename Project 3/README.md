@@ -23,5 +23,14 @@ Either [-d] or [-f] can be used but not both.<br/>
 all of these can be find by typing httpc help after running the client part.
 
 <h3>snap shot time</h3>
-End Scene2<br/>
-<img src="https://github.com/yifan-He/Projects-Demonstration/blob/main/Project%204/img/End2.png"/><br/>
+Handshake1 send from user to server and get responded from server<br/>
+<img src="https://github.com/yifan-He/Projects-Demonstration/blob/main/Project%203/img/handshake2.png"/><br/>
+
+Handshake2 and 3 send from server to user and get responded from user<br/>
+<img src="https://github.com/yifan-He/Projects-Demonstration/blob/main/Project%203/img/handshake1%2C3.png"/><br/>
+
+If a packet is delayed or dropped by the router, our policy is to send a fetch request after every 5 seconds.<br/>
+<img src="https://github.com/yifan-He/Projects-Demonstration/blob/main/Project%203/img/no%20response.png"/><br/>
+
+You can also see the packets flow in the router from the cmd<br/>
+<img src="https://github.com/yifan-He/Projects-Demonstration/blob/main/Project%203/img/cmd%20data.png"/><br/>
