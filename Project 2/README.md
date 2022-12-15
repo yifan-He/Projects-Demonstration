@@ -1,4 +1,4 @@
-Source code: SourceCode<br/>
+Source code: SourceCode folder<br/>
 
 <h3>Project description</h3>
 The Database project provide the services such as: <br/><br/>
